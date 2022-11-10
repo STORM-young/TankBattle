@@ -24,3 +24,4 @@ The Concept, Rules and Requirements of our simple game.
 + Commit = save a local snapshot
 + Reset = roll-back to a previous state
 + Branch, Push and Large File Support later.
+### 4 、Game Design Document（GDD） ###
